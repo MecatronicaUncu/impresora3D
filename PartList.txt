@@ -6,9 +6,9 @@
  Cant.	Descripcion
 ————————————————————
 1 		Partes Plasticas
-5 		PaP Nema17
-11 		Rodamientos Lineares LM8UU
-6		Rodamientos 608
+5 		PaP Nema17				450	2250
+11 		Rodamientos Lineares LM8UU		30	330
+6		Rodamientos 608				
 4m		Correa GT2
 2 		Polea GT2(eje:5; Dexterior:20)
 1		Arduino Mega
