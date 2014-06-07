@@ -1,0 +1,29 @@
+#################################
+#	Lista de Partes para Impresora 3D
+#	Tipo  Prosa i3 - Einstein
+#################################
+
+ Cant.	Descripcion
+————————————————————
+1 		Partes Plasticas
+5 		PaP Nema17
+11 		Rodamientos Lineares LM8UU
+6		Rodamientos 608
+4m		Correa GT2
+2 		Polea GT2(eje:5; Dexterior:20)
+1		Arduino Mega
+1		RAMPS 1.4
+5		PololuDriver
+5		Disipadores pequenos
+6 		Finales de carrera
+4		Termistores ATENCION AL HOTEND
+1		HotEnd
+1		HeatBed
+
+ATENCION: 
+* Tornillos 
+* Varillas roscadas
+* Varillas Lisas
+
+ git config --global user.email 112358.fn@gmail.com
+
