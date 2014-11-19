@@ -24,6 +24,3 @@ ATENCION:
 * Tornillos 
 * Varillas roscadas
 * Varillas Lisas
-
- git config --global user.email 112358.fn@gmail.com
-
