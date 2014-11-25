@@ -6,7 +6,7 @@ Proyecto impresora 3D
 ### Contexto en el mundo
 
 ### Por qué es importante tener una impresora 3D?  Construcción – uso ?
-
+655656564465456546546546546546546546546546564465-> alt
 ### Ventajas para los alumnos, facultad de ingeniería?
 
 ## Descripción del proyecto
