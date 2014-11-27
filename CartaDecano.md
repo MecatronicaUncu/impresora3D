@@ -6,7 +6,7 @@ Proyecto impresora 3D
 ### Contexto en el mundo
 
 ### Por qué es importante tener una impresora 3D?  Construcción – uso ?
-655656564465456546546546546546546546546546564465-> alt
+La Construcción de una impresora 3d permitirá generar conocimiento practico, cooperar con el trabajo en equipo, además de permitir instaurar un know-how propio en el tema, permitiendo así
 ### Ventajas para los alumnos, facultad de ingeniería?
 
 ## Descripción del proyecto
